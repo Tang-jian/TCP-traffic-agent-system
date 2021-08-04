@@ -1,0 +1,7 @@
+2021-08-03 10:36:56,369 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 10:39:24,632 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 10:39:28,853 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:217] - ERROR: 与服务器的连接已断开！
+2021-08-03 10:44:08,153 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 10:44:09,163 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:220] - INFO: 目标服务器未开启...请重试
+2021-08-03 10:44:17,153 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 10:44:21,253 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:226] - INFO: 与服务器的连接已断开
