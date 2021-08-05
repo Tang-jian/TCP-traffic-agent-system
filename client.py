@@ -10,6 +10,9 @@ from config import *
 heart_flag = 1
 
 
+
+#
+
 def transfer_json(msg, method):
     """字符串与json格式互相转换"""
     if method:
