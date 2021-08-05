@@ -1,0 +1,222 @@
+2021-08-03 10:36:56,369 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 10:39:24,632 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 10:39:28,853 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:217] - ERROR: 与服务器的连接已断开！
+2021-08-03 10:44:08,153 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 10:44:09,163 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:220] - INFO: 目标服务器未开启...请重试
+2021-08-03 10:44:17,153 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 10:44:21,253 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:226] - INFO: 与服务器的连接已断开
+2021-08-03 11:07:51,343 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 11:12:24,203 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:204] - INFO: 与服务器的连接已断开
+2021-08-03 14:54:50,921 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 14:58:57,268 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 15:11:26,505 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 15:13:39,511 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 15:15:18,907 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 15:22:27,887 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 15:49:48,597 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 15:52:02,397 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 16:07:03,596 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 16:14:00,298 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 16:34:50,215 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 16:57:39,198 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 17:01:50,062 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 18:14:33,571 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 19:35:21,888 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:05:39,381 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:204] - INFO: 与服务器的连接已断开
+2021-08-03 20:05:45,478 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:09:14,157 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:26:18,243 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:30:07,672 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:32:15,001 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:35:37,305 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:37:01,521 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<port_transmit_other() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:80> exception=UnicodeDecodeError('utf-8', b'\x00\x00\x04\xc4\x05\x14\xa1\x96GA\xf2Q\x0fJC\xa8g\xd3\x88z\xc0\xc4\x00\x00\x010curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c\x00\x00\x01"ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ssh-ed25519,rsa-sha2-512,rsa-sha2-256,ssh-rsa\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\x04none\x00\x00\x00\x04none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 3, 4, 'invalid continuation byte')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 85, in port_transmit_other
+    data = data.decode()
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc4 in position 3: invalid continuation byte
+2021-08-03 20:42:37,792 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:43:35,816 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:49:14,001 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:49:48,732 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 20:53:53,336 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<port_transmit_other() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:80> exception=UnicodeDecodeError('utf-8', b'\x00\x00\x04\xc4\x05\x14\xa7\xfb+\x0e\x8a\x9d\xd2\x89\xf0\xccl\x8d\xe1z/\xfb\x00\x00\x010curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c\x00\x00\x01"ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519,rsa-sha2-512,rsa-sha2-256,ssh-rsa\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\x04none\x00\x00\x00\x04none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 3, 4, 'invalid continuation byte')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 85, in port_transmit_other
+    data = data.decode()
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc4 in position 3: invalid continuation byte
+2021-08-03 21:06:05,490 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 21:07:33,590 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 21:12:17,767 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<port_transmit_other() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:80> exception=UnicodeDecodeError('utf-8', b'\x00\x00\x04\xc4\x05\x14\x7f\x1cd\xd9\xa6z\xe5\xd7W\x1fw\x96\xedy\xb8\xdc\x00\x00\x010curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c\x00\x00\x01"ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ssh-ed25519-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519,rsa-sha2-512,rsa-sha2-256,ssh-rsa\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\x04none\x00\x00\x00\x04none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 3, 4, 'invalid continuation byte')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 85, in port_transmit_other
+    data = data.decode()
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc4 in position 3: invalid continuation byte
+2021-08-03 21:14:03,031 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-03 21:15:05,917 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<port_transmit_other() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:80> exception=UnicodeDecodeError('utf-8', b'\x00\x00\x04\xc4\x05\x14\xa3)\xd0Q\x9cz\nd\xe0\x98\x03p\xf0y\x95\xe0\x00\x00\x010curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c\x00\x00\x01"ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ssh-ed25519,rsa-sha2-512,rsa-sha2-256,ssh-rsa\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\x04none\x00\x00\x00\x04none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 3, 4, 'invalid continuation byte')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 85, in port_transmit_other
+    data = data.decode()
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc4 in position 3: invalid continuation byte
+2021-08-04 09:01:36,059 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 09:03:36,439 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<port_transmit_other() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:80> exception=UnicodeDecodeError('utf-8', b'\x00\x00\x04\xc4\x05\x14\x06V\xb4\x87\xbec\xcf~\xe4F\x16A*z\x8e\x03\x00\x00\x010curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c\x00\x00\x01"ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ssh-ed25519,rsa-sha2-512,rsa-sha2-256,ssh-rsa\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\x04none\x00\x00\x00\x04none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 3, 4, 'invalid continuation byte')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 85, in port_transmit_other
+    data = data.decode()
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc4 in position 3: invalid continuation byte
+2021-08-04 09:15:32,232 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 09:17:47,019 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 09:18:30,149 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 09:19:35,504 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<port_transmit_other() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:80> exception=UnicodeDecodeError('utf-8', b'\x00\x00\x04\xc4\x05\x14z\xa7\xf1\x85T\xed`aU\xfeze\xd6W\xe3v\x00\x00\x010curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c\x00\x00\x01"ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ssh-ed25519,rsa-sha2-512,rsa-sha2-256,ssh-rsa\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\x04none\x00\x00\x00\x04none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 3, 4, 'invalid continuation byte')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 85, in port_transmit_other
+    data = data.decode()
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc4 in position 3: invalid continuation byte
+2021-08-04 09:28:46,378 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 09:52:54,567 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 10:01:05,708 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 10:02:42,851 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 10:17:11,396 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 10:17:12,401 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:197] - INFO: 目标服务器未开启...请重试
+2021-08-04 10:17:27,873 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 10:23:41,266 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 10:25:10,437 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 10:25:11,455 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:197] - INFO: 目标服务器未开启...请重试
+2021-08-04 10:33:12,889 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 10:35:34,470 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 10:36:37,105 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 10:36:38,116 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:197] - INFO: 目标服务器未开启...请重试
+2021-08-04 10:36:48,894 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 11:02:50,356 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 12:14:53,350 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:07:48,071 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:08:37,394 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:09:02,995 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<handle_func() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:73> exception=TypeError('data: expecting a bytes-like instance, got str')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 76, in handle_func
+    writer.write('start_server')
+  File "H:\python3.8.2\lib\asyncio\streams.py", line 341, in write
+    self._transport.write(data)
+  File "H:\python3.8.2\lib\asyncio\sslproto.py", line 383, in write
+    raise TypeError(f"data: expecting a bytes-like instance, "
+TypeError: data: expecting a bytes-like instance, got str
+2021-08-04 13:09:54,909 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<handle_func() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:73> exception=TypeError('data: expecting a bytes-like instance, got str')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 76, in handle_func
+    writer.write('start_server')
+  File "H:\python3.8.2\lib\asyncio\streams.py", line 341, in write
+    self._transport.write(data)
+  File "H:\python3.8.2\lib\asyncio\sslproto.py", line 383, in write
+    raise TypeError(f"data: expecting a bytes-like instance, "
+TypeError: data: expecting a bytes-like instance, got str
+2021-08-04 13:10:54,682 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:11:26,694 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<handle_func() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:73> exception=TypeError('data: expecting a bytes-like instance, got str')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 76, in handle_func
+    writer.write('start_server')
+  File "H:\python3.8.2\lib\asyncio\streams.py", line 341, in write
+    self._transport.write(data)
+  File "H:\python3.8.2\lib\asyncio\sslproto.py", line 383, in write
+    raise TypeError(f"data: expecting a bytes-like instance, "
+TypeError: data: expecting a bytes-like instance, got str
+2021-08-04 13:13:35,191 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:13:54,730 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<handle_func() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:73> exception=TypeError('data: expecting a bytes-like instance, got str')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 76, in handle_func
+    writer.write('start_server')
+  File "H:\python3.8.2\lib\asyncio\streams.py", line 341, in write
+    self._transport.write(data)
+  File "H:\python3.8.2\lib\asyncio\sslproto.py", line 383, in write
+    raise TypeError(f"data: expecting a bytes-like instance, "
+TypeError: data: expecting a bytes-like instance, got str
+2021-08-04 13:17:58,531 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:19:05,409 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<handle_func() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:73> exception=TypeError('data: expecting a bytes-like instance, got str')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 76, in handle_func
+    writer.write('start_server')
+  File "H:\python3.8.2\lib\asyncio\streams.py", line 341, in write
+    self._transport.write(data)
+  File "H:\python3.8.2\lib\asyncio\sslproto.py", line 383, in write
+    raise TypeError(f"data: expecting a bytes-like instance, "
+TypeError: data: expecting a bytes-like instance, got str
+2021-08-04 13:21:58,763 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:22:39,840 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-5' coro=<handle_func() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:73> exception=TypeError('data: expecting a bytes-like instance, got str')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 77, in handle_func
+    writer.write('start_server')
+  File "H:\python3.8.2\lib\asyncio\streams.py", line 341, in write
+    self._transport.write(data)
+  File "H:\python3.8.2\lib\asyncio\sslproto.py", line 383, in write
+    raise TypeError(f"data: expecting a bytes-like instance, "
+TypeError: data: expecting a bytes-like instance, got str
+2021-08-04 13:24:35,189 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:26:42,782 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:28:04,458 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:29:58,735 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:33:51,580 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:34:27,466 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:35:59,769 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:36:23,758 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-6' coro=<port_transmit_other() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:84> exception=UnicodeDecodeError('utf-8', b'\x00\x00\x04\xc4\x05\x14:lJ\xa3\x0fr\x03S\xdb\xab\x1aS~\x11w\x13\x00\x00\x010curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c\x00\x00\x01"ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ssh-ed25519,rsa-sha2-512,rsa-sha2-256,ssh-rsa\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\x04none\x00\x00\x00\x04none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 3, 4, 'invalid continuation byte')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 91, in port_transmit_other
+    if data == b'' or data.decode() == 'exit':
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc4 in position 3: invalid continuation byte
+2021-08-04 13:37:47,150 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:38:07,150 - H:\python3.8.2\lib\asyncio\base_events.py[line:1707] - ERROR: Task exception was never retrieved
+future: <Task finished name='Task-6' coro=<port_transmit_other() done, defined at H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py:84> exception=UnicodeDecodeError('utf-8', b'\x00\x00\x04\xc4\x05\x14\x88\xbfS\x16\xd6\xca(\xf0\xc9R\x02\x98QU\xdb\xc3\x00\x00\x010curve25519-sha256,curve25519-sha256@libssh.org,ecdh-sha2-nistp256,ecdh-sha2-nistp384,ecdh-sha2-nistp521,diffie-hellman-group-exchange-sha256,diffie-hellman-group16-sha512,diffie-hellman-group18-sha512,diffie-hellman-group-exchange-sha1,diffie-hellman-group14-sha256,diffie-hellman-group14-sha1,ext-info-c\x00\x00\x01"ecdsa-sha2-nistp256-cert-v01@openssh.com,ecdsa-sha2-nistp384-cert-v01@openssh.com,ecdsa-sha2-nistp521-cert-v01@openssh.com,ecdsa-sha2-nistp256,ecdsa-sha2-nistp384,ecdsa-sha2-nistp521,ssh-ed25519-cert-v01@openssh.com,ssh-rsa-cert-v01@openssh.com,ssh-ed25519,rsa-sha2-512,rsa-sha2-256,ssh-rsa\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00>chacha20-poly1305@openssh.com,aes128-ctr,aes192-ctr,aes256-ctr\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\xd5umac-64-etm@openssh.com,umac-128-etm@openssh.com,hmac-sha2-256-etm@openssh.com,hmac-sha2-512-etm@openssh.com,hmac-sha1-etm@openssh.com,umac-64@openssh.com,umac-128@openssh.com,hmac-sha2-256,hmac-sha2-512,hmac-sha1\x00\x00\x00\x04none\x00\x00\x00\x04none\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00', 3, 4, 'invalid continuation byte')>
+Traceback (most recent call last):
+  File "H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py", line 91, in port_transmit_other
+    if data == b'' or data.decode() == 'exit':
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc4 in position 3: invalid continuation byte
+2021-08-04 13:39:21,824 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:42:26,919 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:45:00,405 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:48:53,925 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 13:49:02,776 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:215] - INFO: 与服务器的连接已断开
+2021-08-04 13:52:20,974 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:11:36,669 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:14:01,809 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:17:15,628 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:19:33,598 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:21:23,192 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:23:25,464 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:25:23,701 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:27:45,216 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:28:29,458 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:29:07,753 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:37:27,965 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 14:49:05,595 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 15:43:32,023 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 15:44:03,756 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 15:44:53,195 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 15:44:54,201 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:211] - INFO: 目标服务器未开启...请重试
+2021-08-04 15:45:35,630 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 15:45:36,637 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:211] - INFO: 目标服务器未开启...请重试
+2021-08-04 15:45:40,061 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 15:45:41,065 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:211] - INFO: 目标服务器未开启...请重试
+2021-08-04 15:46:20,087 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 15:56:18,215 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 16:17:27,328 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 16:21:02,278 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-04 18:22:28,780 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-05 09:32:40,398 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-05 09:36:44,980 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-05 09:37:14,439 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-05 09:38:54,539 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-05 09:39:55,352 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:219] - INFO: 与服务器的连接已断开
+2021-08-05 09:39:59,197 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-05 09:40:01,950 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-05 09:43:17,537 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-05 09:43:20,336 - H:/pycharm/0pycharm_project/flow_agent_system_server/traffic_forwarding/client/client/TCP_echo_client.py[line:219] - INFO: 与服务器的连接已断开
+2021-08-05 09:44:51,985 - H:\python3.8.2\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
