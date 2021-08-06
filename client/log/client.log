@@ -1,0 +1,2 @@
+2021-08-06 10:43:11,902 - D:\Anaconda3\envs\py38\lib\asyncio\proactor_events.py[line:623] - DEBUG: Using proactor: IocpProactor
+2021-08-06 10:43:17,148 - A:/client/client/client.py[line:42] - INFO: 用户：tang 登录成功
